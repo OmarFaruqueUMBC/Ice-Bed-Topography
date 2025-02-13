@@ -1,0 +1,3 @@
+## Deep Learning Approach to Predict Ice Bed
+
+Greenland bed topography is important to estimate the flow of ice, subglacial drainage, and the impact of climate change on the ice sheet. Collecting ice bed topography values of the whole Greenland is costly and therefore the amount of satellite data is pretty low compared to the huge ice sheets. Those missing data points need to be predicted by combining all the features of the ice bed surface of Greenland. It is challenging for the machine learning models to capture the hidden patterns from input geographical features. So different deep learning-based approaches are trained to predict the ice bed topography where satellite ground truth data is not available.
